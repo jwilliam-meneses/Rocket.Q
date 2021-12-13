@@ -16,6 +16,7 @@ header {
   grid-area: left;
 
   background: url('/assets/home-bg-img.svg') no-repeat top/contain;
+  background-position-x: -12rem;
 }
 
 main {
@@ -23,6 +24,7 @@ main {
 
   display: flex;
   align-items: center;
+  margin-top: -17rem;
 }
 
 main .container {
